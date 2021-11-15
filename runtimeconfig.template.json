@@ -1,0 +1,9 @@
+﻿{
+  "configProperties": {
+    "System.GC.Server": true,
+    "System.GC.CpuGroup": true,
+    "System.GC.RetainVM": true,
+    "System.Runtime.TieredCompilation.QuickJit": false,
+    "System.Runtime.TieredCompilation.QuickJitForLoops": false
+  }
+}

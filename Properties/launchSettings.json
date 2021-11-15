@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Hardcore": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "COMPlus_Thread_UseAllCpuGroups": "1"
+      }
+    }
+  }
+}
